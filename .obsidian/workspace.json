@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "dae2e0c03892f994",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a031b311c53571d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95acb9bcea3e190c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOEFL/LISTENING/❤️综述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1233e2a9ce5274e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e56741ff29ac30d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bd5e3d0605e6475",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8b707a6ad1f426a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86b3e1f989eb42d6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "819337de2e55f171",
+    "type": "split",
+    "children": [
+      {
+        "id": "e292e643826130a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60904cdf47ff477a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TOEFL/LISTENING/❤️综述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4959fa1c80bcded",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TOEFL/LISTENING/❤️综述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5b6e46ce917c01a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2766fd0e1998536f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TOEFL/LISTENING/❤️综述.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "95acb9bcea3e190c",
+  "lastOpenFiles": []
+}
