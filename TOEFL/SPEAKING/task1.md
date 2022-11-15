@@ -39,7 +39,7 @@
 
 Topic sentence
 
-Reason 
+Reason 1
 
 examples and details，语料相当于例子和细节
 
@@ -70,5 +70,4 @@ conclusion
 语料背熟
 
 尽量多的刷题
-
 

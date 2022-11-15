@@ -38,13 +38,13 @@
 
 基本要求:
 
-locate主题句+摘抄下来
+locate 主题句+摘抄下来
 
 理想情况: locate主题句+摘抄下来+通读全文+预测听力 
 
 模版:
 
-XXX means+句子 XXX is +名词
+XXX means + 句子 XXX is +名词
 
 
 
