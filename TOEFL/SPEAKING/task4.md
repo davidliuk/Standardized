@@ -64,7 +64,7 @@ resolve conflict
 
 In the lecture, the professor is tallking about ...
 
-> 99%的情况下可以直接读屏幕上的内容
+> 99%的情况下可以直接读屏幕上的主题
 
 主题1: 25s
 
