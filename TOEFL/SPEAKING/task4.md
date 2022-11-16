@@ -1,3 +1,5 @@
+听力 > 准备 > 答题
+
 无阅读了，难度更大（因为缺乏预判的文本依据了，不过听力文本有固定结构如下）
 
 理解，记录，转述
@@ -13,18 +15,6 @@ lecture
 听懂80%就可以答出来
 
 
-
-resolve conflict
-
-- mediation 
-
-  Rechieve compromise
-
-  Friend help them to achieve
-
-- decision
-
-  1 win 2 lose
 
 
 
@@ -54,7 +44,9 @@ resolve conflict
 
 四线笔记法：
 
-主题、例子、结果、主题、例子、结果
+主题 | 例子 | 结果、
+
+主题 | 例子 | 结果
 
 
 
@@ -64,23 +56,25 @@ resolve conflict
 
 In the lecture, the professor is tallking about ...
 
-> 99%的情况下可以直接读屏幕上的内容
+> 99%的情况下可以直接读屏幕上的内容，即这个的主题
 
 主题1: 25s
 
-The first.… is...
+The first .… is...
 
-For example...
+For example ...
 
-As a result...
+As a result ...
 
 主题2: 25s
 
-The second... is...
+The second ... is...
 
-For example...
+For example ...
 
-As a result...
+As a result ...
+
+
 
 
 
@@ -94,3 +88,18 @@ As a result...
 
 重听录屏整理笔记
 
+
+
+例题：
+
+resolve conflict
+
+- mediation 
+
+  achieve compromise
+
+  Friend help them to achieve 
+
+- decision
+
+  1 win 2 lose

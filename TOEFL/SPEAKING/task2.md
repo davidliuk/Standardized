@@ -1,7 +1,5 @@
 阅读 > 听力 > 准备 > 答题
 
-
-
 主题：Campus topic 校园生活话题
 
 
@@ -29,7 +27,7 @@
 
   - 标题：99.9%的可能性
 
-  - 自己整理：1%
+  - 自己整理：0.1%
 
     从正文前两段整理
 
@@ -62,13 +60,15 @@ conversation，有一个主讲人
 
 30s（+读题共60s），补充笔记（补逻辑词、补句子）
 
+支持/反对 +/- 
+
 
 
 ### 答题 60s
 
 1. 阅读15s
 
-   The University plans to .... Beacause ... and ...
+   The University plans to .... beacause ... and ...
 
    The letter proposes that ... because ... and ...
 
@@ -84,10 +84,10 @@ conversation，有一个主讲人
    
    混合态度：
    
-   the man has mixed feelings about the reading when talking about the first point in the reading, he agrees: 
+   the man has mixed feelings about the reading 
    
-   but about the second point in the reading, he disagrees
+   - when talking about the first point in the reading, he agrees: 
+   - but about the second point in the reading, he disagrees
 
 (As you can see, those are the two reasons why the woman/man in the conversation agrees/disagrees with the proposal/plan to...)
-
 

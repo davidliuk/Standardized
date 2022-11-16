@@ -44,7 +44,8 @@ locate 主题句+摘抄下来
 
 模版:
 
-XXX means + 句子 XXX is +名词
+- XXX means + 句子 
+- XXX is +名词
 
 
 
@@ -54,7 +55,7 @@ lecture
 
 主题+例子
 
-例子1-2个
+例子1-2个，90%2个例子
 
 可能是主观例子（人的亲身经历），可能是客观例子，主观例子居多
 
@@ -78,7 +79,8 @@ lecture
 
 3. As you can see this is the example which can explain what is ***
 
-
-
 原文什么时态，就用什么时态
 
+
+
+实验题
