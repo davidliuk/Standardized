@@ -56,6 +56,10 @@ conversation，有一个主讲人
 
 
 
+![image-20221116172728645](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/3978/image-20221116172728645.png)
+
+
+
 ### 准备 30+30s
 
 30s（+读题共60s），补充笔记（补逻辑词、补句子）

@@ -39,14 +39,18 @@
 
 Topic sentence 
 
-> From my perspective/ for me,
+> 主题句：
 >
-> I prefer
->
+> - From my perspective/ for me, 
+> - I prefer
 > - Well, in my opinion, I would definitely agree with the point that ...
 > - Personally speaking, I prefer ... for several reasons.
 >
 > 如果是A or B，主旨句说：选A，however，选B会怎么不好。
+>
+> 排除其他选项：
+>
+> However, xxx is xxx, so we may xxx.
 
 Reason
 
@@ -97,3 +101,8 @@ conclusion
 
 
 刷题：TPO40+的，刷两三次，和当月真题
+
+
+
+
+
